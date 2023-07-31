@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,6 +8,7 @@
     <title>Dải Ngân Hà</title>
 </head>
 <style>
+    @import "https://fonts.googleapis.com/css2?family=Megrim&display=swap";
 
     body {
         overflow: hidden;
